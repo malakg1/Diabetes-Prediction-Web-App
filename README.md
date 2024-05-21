@@ -24,3 +24,5 @@ Dash and Plotly are utilized to create interactive visualizations, allowing user
 
 [Doha Sami](https://github.com/dohasami)
 
+[Amr Gamal](https://github.com/amrgamal99)
+
